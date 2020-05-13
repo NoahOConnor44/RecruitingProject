@@ -1,0 +1,87 @@
+Isaiah Brevard,WR,Cool,0.9484
+Sawyer Robertson,PRO,Mississippi State,0.9320
+Theodore Knox,WR,Warm,0.9253
+Keon Coleman,WR,Warm,0.9056
+James BlackStrain,WR,Cool,0.9010
+Chase Smith,ATH,Cool,0.9005
+Malik Nabers,WR,Warm,0.8999
+Saivion Jones,WDE,Warm,0.8938
+Weston Franklin,OG,Cool,0.8851
+Tavierre Dunlap,RB,Cool,0.8843
+Kanarius Johnson,WR,Warm,0.8789
+JJ Jones,WR,Warm,0.8778
+Cam Jeffery,ATH,Cool,0.8776
+Jardin Gilbert,S,Cool,0.8768
+Brandon Buckhaulter,WR,Mississippi State,0.8743
+Bryson Estes,OC,Cool,0.8717
+Kadarius Calloway,ATH,Mississippi State,0.8703
+Rod Orr,OT,Warm,0.8678
+Nick Dimitris,WDE,Warm,0.8668
+Trevion Cooley,RB,Cool,0.8667
+Justin Walley,CB,Cool,0.8627
+Makylan Pounders,OT,Mississippi State,0.8519
+Kenji Christian,RB,Cool,0.8516
+Daniel Greek,PRO,Mississippi State,0.8505
+Da'Wain Lofton,ATH,Warm,0.8466
+Amariyon Howard,RB,Mississippi State,0.8465
+Timar Rogers,OLB,Warm,0.8416
+Corey Ellington,WR,Mississippi State,0.8410
+Jacobi Moore,WR,Warm,0.0
+Khyree Jackson,CB,Cool,0.0
+Thomas Davis,WDE,Mississippi State,0.0
+Navonteque Strong,ILB,Warm,0.0
+Luther McCoy,DT,Cool,0.0
+Jadarrius Perkins,CB,Cool,0.0
+Trey Washington,CB,Cool,0.0
+Amarius Mims,OT,Cool,0.9960
+Tony Grimes,CB,Cool,0.9956
+Damon Payne,DT,Cool,0.9890
+Smael Mondon,OLB,Cool,0.9855
+Terrence Ferguson,OG,Cool,0.9767
+Deion Smith,WR,LSU,0.9613
+Clayton Smith,OLB,Cool,0.9548
+Kendrick Blackshire,ILB,Cool,0.9353
+Ketron Jackson,WR,Cool,0.9280
+Jayden Thomas,WR,Cool,0.9266
+Jaquez Smith,WR,Cool,0.9264
+Dietrick Pennington,OG,Cool,0.9169
+Hudson Wolfe,TE,Cool,0.9142
+Hunter Washington,CB,Cool,0.9128
+Bryson Green,WR,Cool,0.9082
+Dink Jackson,ATH,Cool,0.9045
+Dreyden Norwood,CB,Cool,0.9039
+Andrew Mukuba,S,Cool,0.9033
+Dominic Lovett,WR,Cool,0.8979
+Deuce Harmon,CB,Cool,0.8968
+Tyrese Johnson,WR,Cool,0.8941
+Blaine Green,WR,Cool,0.8895
+Kamari Lassiter,CB,Cool,0.8892
+Prince Kollie,OLB,Cool,0.8884
+Byron Turner,SDE,Cool,0.8851
+Matthew Wykoff,OT,Cool,0.8830
+Byron Murphy,DT,Cool,0.8830
+Khristian Zachary,WDE,Cool,0.8812
+Tray Curry,WR,Cool,0.8802
+Kyndrich Breedlove,ATH,Cool,0.8776
+Keontez Lewis,WR,Cool,0.8739
+Terrence Cooks,OLB,Cool,0.8735
+Hal Presley,WR,Cool,0.8728
+Lyrik Rawls,S,Cool,0.8714
+Jarquez Hunter,RB,Cool,0.8638
+Josh Moore,S,Cool,0.8627
+Jakiah Leftwich,OT,Cool,0.8614
+John Howse,CB,Cool,0.8613
+Jordyn Williams,WR,Cool,0.8576
+Simeon Price,WR,Cool,0.8566
+KJ Liggins,WR,Cool,0.8535
+Devin Lemear,S,Cool,0.8494
+Jacoby Jackson,OT,Cool,0.8485
+Jordan Blackmon,S,Cool,0.8477
+Demetrius Coleman,CB,Cool,0.8215
+J.B. Mitchell,WR,Cool,0.0
+Tyler Montgomery,S,Cool,0.0
+Davion Sistrunk,ATH,Cool,0.0
+Caleb Etienne,OT,Cool,0.0
+Javin Burke,ATH,Cool,0.0
+Demarcus Smith,SDE,Warm,0.0
+Devin Lee,SDE,Cool,0.0

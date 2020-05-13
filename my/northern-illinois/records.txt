@@ -1,0 +1,58 @@
+Ethan Hampton,PRO,Northern Illinois,0.8282
+Trevon Jordan,WDE,Northern Illinois,0.7893
+Mason Pierre-Antoine,WR,Northern Illinois,0.0
+Cameron James,OT,Cool,0.8748
+Tyler Hibbler,S,Cool,0.8638
+Carter Evans,TE,Cool,0.8518
+Jeremiah Pittman,DT,Cool,0.8477
+Josh Kreutz,OC,Cool,0.8466
+Tajheem Lawson,RB,Northern Illinois,0.8297
+JaVaughn Byrd,CB,Northern Illinois,0.8115
+Brian Whitsey,S,Northern Illinois,0.8107
+Luke Eckardt,OT,Northern Illinois,0.8054
+Trey Urwiler,ATH,Northern Illinois,0.7954
+Pete Nygra,OC,Northern Illinois,0.7954
+Drew Biber,WR,Northern Illinois,0.7803
+Blake Kosin,TE,Northern Illinois,0.7692
+Matthew Mahoney,WR,Cool,0.0
+Camden Jordan,WR,Cool,0.0
+Justin Pickett,OT,Cool,0.0
+Ezra McAllister,ATH,Cool,0.0
+Matthew Weerts,ILB,Cool,0.0
+Zac Daher,SDE,Cool,0.0
+James Williams,S,Cool,0.9932
+Anthony Tyus,RB,Cool,0.8577
+Kaden McMullen,PRO,Cool,0.8536
+Tyler Maro,OT,Cool,0.8416
+Malachi McNeal,ILB,Cool,0.8376
+Desmond Igbinosun,S,Cool,0.8366
+Daine Hanson,SDE,Cool,0.8316
+Luke Pinnick,OT,Northern Illinois,0.8276
+Dorian Nowell,PRO,Cool,0.8226
+Cade Haberman,DT,Northern Illinois,0.8018
+Semaj James,WR,Cool,0.0
+Kenenna Odeluga,ATH,Cool,0.0
+Myles Jones,ILB,Cool,0.0
+Rapheal Hamilton,DUAL,Cool,0.0
+Donovan Wadley,RB,Cool,0.0
+Alec Palella,TE,Cool,0.0
+Bo Sprague,TE,Cool,0.0
+Riley Kennow,OG,Cool,0.0
+Larry Harris,DT,Cool,0.0
+Makhi Nelson-Douglas,OLB,Cool,0.0
+Zach Vode,ATH,Cool,0.0
+Caylon Hall-Rattler,WR,Cool,0.0
+Nick Flesher,WR,Cool,0.0
+James Carnie,TE,Cool,0.0
+Cole Rusk,TE,Cool,0.0
+Kristoff Kowalkowski,PRO,Cool,0.0
+TJ Urban,DUAL,Cool,0.0
+Nolan Gorczyca,OT,Cool,0.0
+Drayton Charlton-Perrin,TE,Cool,0.0
+Zach Yeager,DUAL,Cool,0.0
+Jayden Jackson,WR,Cool,0.0
+Carter Edwards,ILB,Cool,0.0
+Enrique Cruz,OT,Cool,0.0
+Bailen Murphy,WR,Cool,0.0
+Isaiah Emanuel,WR,Cool,0.0
+Donovan Ezeiruaku,OLB,Cool,0.0

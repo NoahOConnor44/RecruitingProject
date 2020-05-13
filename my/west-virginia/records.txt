@@ -1,0 +1,51 @@
+Wyatt Milum,OT,West Virginia,0.9651
+Tysheem Johnson,S,Cool,0.9012
+Jaylen Anderson,RB,West Virginia,0.8972
+Will Crowder,PRO,West Virginia,0.8688
+Andrew Wilson-Lamp,WR,West Virginia,0.8680
+Hammond Russell,SDE,West Virginia,0.8614
+Victor Wikstrom,TE,West Virginia,0.8573
+Saint McLeod,S,West Virginia,0.8452
+Dont'e Thornton,WR,Cool,0.9760
+Kelvin Gilliam,WDE,Cool,0.9523
+Elliot Donald,SDE,Cool,0.9489
+Christian Leary,WR,Cool,0.9341
+Jacolby George,WR,Cool,0.9268
+Omarion Cooper,CB,Cool,0.9170
+De'Jahn Warren,CB,Cool,0.9061
+Geno VanDeMark,OG,Warm,0.9037
+Kaden Prather,WR,Warm,0.8993
+Jaydon Hood,ILB,Cool,0.8981
+Duce Chestnut,CB,Cool,0.8976
+Audric Estime,RB,Warm,0.8913
+Brody Wisecarver,OG,Warm,0.8893
+Prince Kollie,OLB,Cool,0.8884
+Trenton Adkins,ATH,Warm,0.8859
+Justin Johnson,RB,Cool,0.8835
+James Gillespie,DT,Cool,0.8777
+Daylan Carnell,CB,Warm,0.8762
+Cameron James,OT,Cool,0.8748
+Ahmari Huggins-Bruce,WR,Cool,0.8742
+Mitchell Evans,TE,Cool,0.8738
+Darryl Peterson,SDE,Warm,0.8734
+Zeiqui Lawton,SDE,Warm,0.8722
+Ru'Quan Buckley,SDE,Cool,0.8709
+Eric McDaniels,RB,Cool,0.8709
+Damond Harmon,CB,Cool,0.8702
+Austin Booker,WDE,Cool,0.8627
+Mikai Gbayor,OLB,Warm,0.8627
+Colin Henrich,OG,Cool,0.8614
+Zachary Lovett,ILB,Cool,0.8613
+Jordan Lovett,S,Cool,0.8577
+Lawson Albright,TE,Cool,0.8577
+Joshua Sales,OT,Cool,0.8577
+Jaydon Collins,OT,Cool,0.8577
+Tyreek Chappell,CB,Warm,0.8565
+Armorion Smith,S,Cincinnati,0.8539
+Marcus Mbow,OT,Cool,0.8527
+Matt Marshall,CB,Cool,0.8519
+Jamareeh Jones,ATH,Cool,0.8516
+Treylan Davis,TE,Cool,0.8430
+Roman Hemby,RB,Cool,0.8104
+Khyree Jackson,CB,Warm,0.0
+Jackson West,TE,Cool,0.0

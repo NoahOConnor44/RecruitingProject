@@ -1,0 +1,50 @@
+Nolan Rucci,OT,Warm,0.9903
+Tyler Buchner,DUAL,Notre Dame,0.9837
+Donovan Edwards,RB,Cool,0.9820
+LJ Johnson,RB,Cool,0.9779
+Rocco Spindler,OG,Warm,0.9774
+Deion Colzie,WR,Cool,0.9767
+Dont'e Thornton,WR,Warm,0.9760
+Derrick Davis,S,Cool,0.9753
+Blake Fisher,OT,Notre Dame,0.9753
+Garrett Dellinger,OT,Warm,0.9660
+Ceyair Wright,CB,Cool,0.9633
+Thomas Fidone,TE,Warm,0.9571
+Brock Bowers,TE,Warm,0.9557
+Lorenzo Styles,WR,Notre Dame,0.9501
+Gabriel Rubio,DT,Notre Dame,0.9489
+Reuben Fatheree,OT,Cool,0.9402
+J.Michael Sturdivant,WR,Cool,0.9354
+Cane Berrong,TE,Notre Dame,0.9320
+Kendal Daniels,S,Cool,0.9268
+Jayden Thomas,WR,Cool,0.9266
+Rayshaun Benny,OT,Cool,0.9239
+Terrion Arnold,S,Cool,0.9181
+Jabari Ishmael,WDE,Cool,0.9160
+Dreyden Norwood,CB,Warm,0.9039
+Andrew Mukuba,S,Cool,0.9033
+Titus Mokiao-Atimalala,ATH,Warm,0.9000
+Zaire Patterson,WDE,Cool,0.8969
+Deuce Harmon,CB,Cool,0.8968
+Philip Riley,CB,Notre Dame,0.8958
+Kechaun Bennett,SDE,Cool,0.8932
+Caleb Johnson,OT,Warm,0.8920
+David Abiara,SDE,Notre Dame,0.8915
+Prophet Brown,RB,Warm,0.8904
+Matthew Wykoff,OT,Warm,0.8830
+Christian Lewis,WR,Cool,0.8789
+Jaden Alexis,WR,Cool,0.8776
+Jardin Gilbert,S,Cool,0.8768
+Donovan McMillon,S,Cool,0.8765
+Jason Onye,WDE,Notre Dame,0.8756
+Logan Diggs,RB,Cool,0.8735
+Justin Walters,S,Notre Dame,0.8721
+Andrel Anthony,WR,Warm,0.8721
+Alton McCaskill,RB,Cool,0.8703
+Pat Coogan,OG,Notre Dame,0.8701
+Jaden Slocum,S,Cool,0.8701
+Ryan Barnes,CB,Cool,0.8678
+Dyson McCutcheon,CB,Warm,0.8640
+Tristan Bounds,OT,Warm,0.8628
+Josh Moore,S,Cool,0.8627
+Devin Kirkwood,ATH,Warm,0.8667

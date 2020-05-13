@@ -1,0 +1,85 @@
+TJ Bollers,WDE,Cool,0.9367
+Hampton Fay,PRO,Michigan State,0.8493
+Kameron Allen,TE,Michigan State,0.8410
+Kevin Wigenton,OG,Michigan State,0.8389
+Dominic Bass,DT,Cool,0.0
+Mark Vassett,P,Michigan State,0.0
+Tristan Leigh,OT,Cool,0.9903
+Damon Payne,DT,Cool,0.9890
+Donovan Edwards,RB,Warm,0.9820
+LJ Johnson,RB,Cool,0.9779
+Rocco Spindler,OG,Cool,0.9774
+Barrett Carter,OLB,Cool,0.9742
+Nyland Green,CB,Cool,0.9617
+Kelvin Gilliam,WDE,Cool,0.9523
+Ishmael Ibraheem,CB,Cool,0.9466
+Junior Colson,OLB,Cool,0.9448
+Kaine Williams,S,Cool,0.9408
+Kendrick Blackshire,ILB,Cool,0.9353
+Jager Burton,OG,Cool,0.9327
+Kendal Daniels,S,Cool,0.9268
+JD Coffey,S,Cool,0.9264
+Shemar Turner,SDE,Cool,0.9245
+Rayshaun Benny,OT,Cool,0.9239
+Nathaniel Wiggins,ATH,Cool,0.9225
+Yanni Karlaftis,OLB,Cool,0.9217
+Bryson Green,WR,Cool,0.9082
+Keon Coleman,WR,Cool,0.9056
+Geno VanDeMark,OG,Warm,0.9037
+Andrew Mukuba,S,Cool,0.9033
+Jamari Buddin,OLB,Warm,0.8979
+Donaven McCulley,DUAL,Cool,0.8960
+Noah Josey,OG,Cool,0.8935
+Blaine Green,WR,Cool,0.8895
+Brody Wisecarver,OG,Cool,0.8893
+Prince Kollie,OLB,Cool,0.8884
+Byron Turner,SDE,Cool,0.8851
+Jaylin Smith,ATH,Cool,0.8843
+Tavierre Dunlap,RB,Cool,0.8843
+Lake McRee,TE,Cool,0.8784
+Kyndrich Breedlove,ATH,Cool,0.8776
+Donovan McMillon,S,None,0.8765
+Daylan Carnell,CB,Cool,0.8762
+Cameron James,OT,Cool,0.8748
+Keontez Lewis,WR,Cool,0.8739
+Mitchell Evans,TE,Warm,0.8738
+Terrence Cooks,OLB,Cool,0.8735
+Hal Presley,WR,Cool,0.8728
+Andrel Anthony,WR,Warm,0.8721
+Ru'Quan Buckley,SDE,Cool,0.8709
+Jaden Slocum,S,Cool,0.8701
+Ryan Keeler,SDE,Cool,0.8688
+Andrew Wilson-Lamp,WR,West Virginia,0.8680
+Ryan Barnes,CB,Cool,0.8678
+Damon Ollison,OLB,Warm,0.8667
+Jamarius Dinkins,SDE,Cool,0.8667
+Tyler Hibbler,S,Cool,0.8638
+Tyson Watson,SDE,Michigan State,0.8634
+JP Martin,RB,Cool,0.8627
+Austin Booker,WDE,Cool,0.8627
+Tyrell Raby,CB,Cool,0.8627
+Cameron Ball,DT,Cool,0.8627
+Charles Brantley,CB,Michigan State,0.8599
+Tyler Macon,DUAL,Missouri,0.8593
+Jace Williams,WR,Cool,0.8577
+Joshua Sales,OT,Warm,0.8577
+Ethan Boyd,OT,Michigan State,0.8572
+Marcus Mbow,OT,Cool,0.8527
+Arden Walker,SDE,Cool,0.8526
+Eric Gentry,WDE,Cool,0.8519
+O'Mega Blake,WR,Cool,0.8516
+Michael Gravely,S,Michigan State,0.8505
+Gabe Nealy,S,Michigan State,0.8485
+Jeremiah Pittman,DT,Cool,0.8477
+Derrick Harmon,DT,Michigan State,0.8473
+Antoine Booth,CB,Michigan State,0.8472
+Michael Myslinski,OC,Cool,0.8455
+Davion Primm,RB,Michigan State,0.8436
+Garrett Gillette,TE,Cool,0.8366
+Gunnar Helm,TE,Cool,0.8366
+Jaden McGill,ATH,Cool,0.8316
+Josh Byers,PRO,Cool,0.0
+Koli Faaiu,OG,Warm,0.0
+Dakote Doyle,DT,Cool,0.0
+Michael Lunz,ILB,Warm,0.0
+Jah'von Grigsby,S,Cool,0.0

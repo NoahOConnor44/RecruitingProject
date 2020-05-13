@@ -1,0 +1,84 @@
+J.T. Tuimoloau,SDE,Warm,0.9993
+Jack Sawyer,SDE,Ohio State,0.9987
+Tony Grimes,CB,Warm,0.9956
+Emeka Egbuka,WR,Warm,0.9948
+Tristan Leigh,OT,Cool,0.9903
+JC Latham,OT,Warmer,0.9892
+TreVeyon Henderson,RB,Ohio State,0.9890
+Kyle McCord,PRO,Ohio State,0.9862
+Smael Mondon,OLB,Cool,0.9855
+Raesjon Davis,OLB,LSU,0.9837
+Donovan Jackson,OG,Ohio State,0.9831
+Tunmise Adeleye,SDE,Ohio State,0.9789
+Rocco Spindler,OG,Warm,0.9774
+Jakailin Johnson,CB,Ohio State,0.9754
+Derrick Davis,S,Warm,0.9753
+Barrett Carter,OLB,Warm,0.9742
+Tywone Malone,DT,Warm,0.9741
+Marvin Harrison,WR,Ohio State,0.9738
+Jayden Ballard,WR,Ohio State,0.9664
+Reid Carrico,ILB,Ohio State,0.9657
+Mike Hall,DT,Ohio State,0.9656
+Evan Pryor,RB,Ohio State,0.9630
+Dallas Turner,WDE,Cool,0.9609
+Jaylin Davies,CB,Warm,0.9568
+Ben Christman,OT,Ohio State,0.9537
+Andre Turrentine,S,Ohio State,0.9403
+Troy Stellato,WR,Warmer,0.9372
+Jager Burton,OG,Warm,0.9327
+Denzel Burke,ATH,Warm,0.9269
+Jantzen Dunn,ATH,Ohio State,0.9196
+Hudson Wolfe,TE,Warm,0.9142
+Hunter Washington,CB,Warm,0.9128
+Jaylen Johnson,S,Ohio State,0.8894
+Sam Hart,TE,Ohio State,0.8806
+Devonta Smith,CB,Ohio State,0.8776
+Caleb Williams,DUAL,Cool,0.9975
+James Williams,S,Cool,0.9932
+Nolan Rucci,OT,Cool,0.9903
+Damon Payne,DT,Warm,0.9890
+Camar Wheaton,RB,Cool,0.9889
+Donovan Edwards,RB,Cool,0.9820
+Mario Williams,WR,Cool,0.9792
+LJ Johnson,RB,Cool,0.9779
+Kingsley Suamataia,OT,Cool,0.9669
+Garrett Dellinger,OT,Cool,0.9660
+Tyreak Sapp,SDE,Florida,0.9575
+Quintin Somerville,SDE,Cool,0.9557
+Monkell Goodwine,SDE,Cool,0.9495
+Elliot Donald,SDE,Cool,0.9489
+Jalil Farooq,WR,Warm,0.9419
+Reuben Fatheree,OT,Cool,0.9402
+Kaemen Marley,ATH,Cool,0.9358
+Moliki Matavao,TE,Cool,0.9357
+Christian Leary,WR,Cool,0.9341
+Ketron Jackson,WR,Cool,0.9280
+Denzel Burke,ATH,Cool,0.9269
+Jayden Thomas,WR,Cool,0.9266
+Shemar Turner,SDE,Cool,0.9245
+Greg Penn,ILB,Cool,0.9241
+Rayshaun Benny,OT,Cool,0.9239
+Yanni Karlaftis,OLB,Cool,0.9217
+Malcolm Johnson,WR,None,0.9213
+Aaron Armitage,SDE,Cool,0.9207
+Dametrious Crownover,TE,Cool,0.9164
+Charles Montgomery,ATH,Cool,0.9126
+Chaz Chambliss,OLB,Cool,0.9076
+Kaden Prather,WR,Cool,0.8993
+Kamren Kinchens,S,Cool,0.8987
+Jack Pugh,TE,Cool,0.8936
+Noah Josey,OG,Cool,0.8935
+Tommi Hill,ATH,Cool,0.8934
+Terrance Ferguson,TE,Warm,0.8925
+Bennett Pitcher,OT,Cool,0.8889
+Jordan Dingle,TE,Warm,0.8858
+Christian Burkhalter,WDE,Cool,0.8776
+Colin Mobley,SDE,None,0.8763
+William Griffin,OT,Warm,0.8739
+Damond Harmon,CB,Cool,0.8702
+Michael Gonzalez,OG,Cool,0.8643
+Shawn Hardy,WR,Cool,0.8622
+A.J. Kirk,S,Warm,0.8602
+Jack Brandon,PRO,Warm,0.8286
+Dominic Bass,DT,Cool,0.0
+CJ Hankins,ILB,Cool,0.0

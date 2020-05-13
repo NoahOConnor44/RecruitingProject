@@ -1,0 +1,58 @@
+Jack Pugh,TE,Cool,0.8936
+Damon Payne,DT,Cool,0.9890
+TJ Bollers,WDE,Warm,0.9367
+Rayshaun Benny,OT,Cool,0.9239
+AJ Green,CB,Cool,0.9238
+Dominic Lovett,WR,Cool,0.8979
+Jamari Buddin,OLB,Cool,0.8979
+Collin Oliver,ILB,Cool,0.8901
+Brody Wisecarver,OG,Cool,0.8893
+Tavierre Dunlap,RB,Cool,0.8843
+Lake McRee,TE,Cool,0.8784
+Cameron James,OT,Cool,0.8748
+Keontez Lewis,WR,Cool,0.8739
+Mitchell Evans,TE,Warm,0.8738
+Elijah Bean,WR,Cool,0.8736
+Andrel Anthony,WR,Cool,0.8721
+Ru'Quan Buckley,SDE,Cool,0.8709
+Ryan Keeler,SDE,Cool,0.8688
+Tobechi Okoli,SDE,Cool,0.8678
+Tyler Hibbler,S,Warm,0.8638
+Robert Army,WR,Iowa State,0.8593
+Marcus Morgan,ATH,Cool,0.8577
+Anthony Tyus,RB,Cool,0.8577
+Jim Bonifas,OT,Iowa State,0.8572
+Joe Alt,OT,Cool,0.8567
+Rico Barfield,RB,Cool,0.8559
+Jonathan Jones,SDE,Cool,0.8540
+Bryce Stephens,WR,Cool,0.8516
+Jaylin Noel,WR,Warm,0.8497
+Devin Lemear,S,Cool,0.8494
+Howard Brown,DT,Iowa State,0.8485
+Jacoby Jackson,OT,Cool,0.8485
+Jordan Blackmon,S,Cool,0.8477
+Jeremiah Pittman,DT,Cool,0.8477
+Seth Malcom,OLB,Cool,0.8477
+Deion Burks,WR,Warm,0.8466
+Charles Wright,PRO,Iowa State,0.8465
+Stone Eby,SDE,Cool,0.8452
+Noah Biglow,CB,Iowa State,0.8445
+Tyler Maro,OT,Cool,0.8416
+Aden Kelley,DT,Warm,0.8416
+Jack Witmer,TE,Cool,0.8416
+Dodge Sauser,OT,Iowa State,0.8377
+Carston Marshall,OLB,Iowa State,0.8377
+Will Lee,WR,Cool,0.8376
+Tyler Moore,TE,Iowa State,0.8364
+Deon Silas,APB,Iowa State,0.8357
+Landon Morris,WR,Warm,0.8316
+Tyler Onyedim,DT,Cool,0.8265
+Aidan Ralph,OLB,Iowa State,0.8208
+Myles Mendeszoon,WDE,Iowa State,0.8169
+Charlie Sims,OG,Cool,0.8165
+Joey Petersen,WDE,Cool,0.7843
+Tristan Michaud,WR,Iowa State,0.0
+Floyd Dozier,DT,Cool,0.0
+Beau Freyler,ATH,Warm,0.0
+Micah Pettus,OT,Warm,0.0
+Davion Sistrunk,ATH,Cool,0.0

@@ -1,0 +1,58 @@
+Behren Morton,DUAL,Texas Tech,0.9127
+Mason Tharp,TE,Texas Tech,0.8607
+Jack Tucker,OT,Texas Tech,0.8561
+Jed Castles,TE,Texas Tech,0.8540
+Solomon Wright,DT,Texas Tech,0.8519
+LJ Johnson,RB,Cool,0.9779
+Marcus Burris,SDE,Cool,0.9572
+Kendal Daniels,S,Cool,0.9268
+JD Coffey,S,Cool,0.9264
+Theodore Knox,WR,Cool,0.9253
+Shemar Turner,SDE,Cool,0.9245
+AJ Green,CB,Cool,0.9238
+Dametrious Crownover,TE,Cool,0.9164
+Hunter Washington,CB,Cool,0.9128
+Bryson Green,WR,Cool,0.9082
+Ahmonte Watkins,RB,Cool,0.9039
+Andrew Mukuba,S,Cool,0.9033
+Deuce Harmon,CB,Cool,0.8968
+Landyn Watson,WDE,Warm,0.8958
+Jerand Bradley,WR,Texas Tech,0.8940
+Collin Oliver,ILB,Cool,0.8901
+Blaine Green,WR,Cool,0.8895
+Cam'Ron Valdez,RB,Warm,0.8884
+Byron Turner,SDE,Cool,0.8851
+Tavierre Dunlap,RB,Cool,0.8843
+Matthew Wykoff,OT,Cool,0.8830
+Byron Murphy,DT,Warm,0.8830
+Terrence Cooks,OLB,Cool,0.8735
+E'maurion Banks,SDE,Texas Tech,0.8723
+Lyrik Rawls,S,Cool,0.8714
+Ryan Barnes,CB,Cool,0.8678
+Jackie Marshall,ILB,Cool,0.8678
+Melvin Swindle,DT,Cool,0.8668
+Jonathon Brooks,RB,Cool,0.8635
+Austin Booker,WDE,Cool,0.8627
+Jasper Lott,TE,Cool,0.8614
+Nick Martin,ATH,Cool,0.8593
+Jack Leyrer,OT,Cool,0.8548
+Jonathan Jones,SDE,Cool,0.8540
+Chase Lowery,CB,Cool,0.8519
+Rejhan Tatum,ILB,Cool,0.8516
+Keith Cooper,OLB,Cool,0.8516
+Carlton Guidry,WR,Warm,0.8516
+Jacoby Jackson,OT,Cool,0.8485
+Mekhi Wingo,DT,Missouri,0.8477
+Brenen Hawkins,WR,Cool,0.8466
+Deamikkio Nathan,WR,Cool,0.8466
+Charles Esters,SDE,Texas Tech,0.8465
+Shemar Pearl,WDE,Cool,0.0
+Latrell McCutchin,CB,Cool,0.9443
+Kamari Lassiter,CB,Cool,0.8892
+Lake McRee,TE,Cool,0.8784
+Erick Cade,OT,Cool,0.8643
+Solomon Lewis,WR,Cool,0.8548
+Kenneth Bannister,OT,Cool,0.8527
+Devin Lemear,S,Cool,0.8494
+Cale Sanders,ATH,Cool,0.8431
+Donovan Stephens,OLB,Warm,0.0

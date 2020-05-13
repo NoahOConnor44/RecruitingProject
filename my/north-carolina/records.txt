@@ -1,0 +1,140 @@
+Jahvaree Ritzie,SDE,Warm,0.9290
+Logan Taylor,OT,Warm,0.8977
+Zaire Patterson,WDE,Cool,0.8969
+JJ Jones,WR,Warm,0.8778
+Tony Grimes,CB,Warm,0.9956
+Damon Payne,DT,Cool,0.9890
+Drake Maye,PRO,North Carolina,0.9757
+Keeshawn Silver,SDE,North Carolina,0.9542
+Gavin Blackwell,WR,North Carolina,0.9512
+Troy Stellato,WR,Cool,0.9372
+DeAndre Boykins,ATH,North Carolina,0.9273
+Jaquez Smith,WR,Cool,0.9264
+Power Echols,ILB,North Carolina,0.9254
+Raneiria Dillworth,OLB,North Carolina,0.9172
+Eli Sutton,OT,North Carolina,0.9162
+Gabe Stephens,ATH,North Carolina,0.9153
+Tyleik Williams,DT,Warm,0.9152
+Bryson Green,WR,Cool,0.9082
+Dontavius Nash,S,North Carolina,0.9052
+James BlackStrain,WR,Cool,0.9010
+Blaine Green,WR,Cool,0.8895
+Kobe Paysour,WR,North Carolina,0.8891
+Jared Wilson,OG,North Carolina,0.8854
+Dameon Wilson,ILB,Warm,0.8793
+Tymir Brown,ATH,North Carolina,0.8783
+Kyndrich Breedlove,ATH,Cool,0.8776
+Bryson Nesbit,TE,Warm,0.8730
+Demetrius Coleman,CB,Cool,0.8215
+Tanner Bivins,OT,Cool,0.0
+Caleb Williams,DUAL,Cool,0.9975
+Payton Page,DT,Warm,0.9655
+Aaron McLaughlin,PRO,Cool,0.9221
+Kaden Prather,WR,Cool,0.8993
+Brashard Smith,APB,Cool,0.8892
+Lake McRee,TE,Cool,0.8784
+KeyShawn Spencer,RB,Cool,0.8756
+Jack Hollifield,ILB,Cool,0.8710
+Malik Newton,RB,Cool,0.8688
+Michael Gonzalez,OG,Cool,0.8643
+Jordan Young,CB,Cool,0.8634
+Alex Okelo,WDE,Cool,0.8527
+Jamareeh Jones,ATH,Cool,0.8516
+Jack Stephens,PRO,Warm,0.0
+Devin Flowers,PRO,Cool,0.0
+Tyler Hoff,WR,Cool,0.0
+Tristan Leigh,OT,Cool,0.9903
+Mario Williams,WR,Cool,0.9792
+Dont'e Thornton,WR,Cool,0.9760
+Barrett Carter,OLB,Cool,0.9742
+Corey Collier,S,Cool,0.9728
+Dallas Turner,WDE,Cool,0.9609
+Kelvin Gilliam,WDE,Cool,0.9523
+Jalil Farooq,WR,Cool,0.9419
+Kaemen Marley,ATH,Cool,0.9358
+Michael Trigg,TE,Cool,0.9337
+Naquan Brown,WDE,Cool,0.9337
+Dylan Fairchild,OG,Cool,0.9327
+Cane Berrong,TE,Notre Dame,0.9320
+Cane Berrong,TE,Notre Dame,0.9320
+Micah Crowell,WR,Cool,0.9296
+Jayden Thomas,WR,Cool,0.9266
+Yousef Mugharbil,OG,Cool,0.9253
+Greg Penn,ILB,Cool,0.9241
+Daejon Reynolds,WR,Florida,0.9203
+Omarion Cooper,CB,Cool,0.9170
+Laurence Seymore,OG,Miami,0.9150
+Keanu Koht,WDE,Cool,0.9093
+Kamarro Edmonds,RB,North Carolina,0.9085
+Tim Keenan,DT,Cool,0.8940
+Desmond Watson,DT,Cool,0.8891
+Travali Price,WDE,Cool,0.8863
+Trenton Adkins,ATH,Cool,0.8859
+Kamonte Grimes,ATH,Cool,0.8806
+Breon Pass,WR,Cool,0.8776
+Joshua Burrell,WR,Cool,0.8763
+Miles Campbell,TE,Cool,0.8739
+Kevin Knowles,CB,Cool,0.8710
+Eric McDaniels,RB,Cool,0.8709
+Jaden Lindsay,OG,Cool,0.8648
+Zyun Reeves,SDE,Cool,0.8627
+Mikai Gbayor,OLB,None,0.8627
+Robbie Ouzts,TE,Warm,0.8577
+Corey Palmer,WR,Cool,0.8561
+Caleb Hood,ATH,North Carolina,0.8553
+Jaleel Davis,OT,Cool,0.8527
+Austin Barber,OT,Warm,0.8519
+Aubrey Burks,S,Cool,0.8519
+Umari Hatcher,WR,Cool,0.8516
+Andrew Canelas,OT,Cool,0.8477
+Jordan Poole,ATH,Cool,0.8466
+Jatius Geer,SDE,Cool,0.8466
+Maurice Freeman,S,Cool,0.8455
+Matt Gulbin,OG,Cool,0.8416
+Dedrick Smith,OLB,Warm,0.8366
+Irone Jackson,ATH,Cool,0.8364
+Jordan Burrell,S,Cool,0.8316
+Derek Coombs,RB,Cool,0.8305
+Nate Hampton,PRO,Cool,0.8265
+Coleman Jeffcoat,WR,Cool,0.8265
+Thailand Baldwin,CB,Cool,0.8180
+Tyrin Taylor,S,Cool,0.8165
+Nasir Robinson,RB,Cool,0.8154
+Roman Hemby,RB,Cool,0.8104
+Nickel Fields,RB,Cool,0.8083
+Dez Williams,WR,Cool,0.8043
+Jordan Anderson,ATH,Cool,0.0
+Jonathan Michael,RB,Cool,0.0
+Elijah Metcalf,WR,Cool,0.0
+Chad Martini,PRO,Cool,0.0
+Ke'Nazius Black,RB,Cool,0.0
+Jonathan Cannon,WDE,Cool,0.0
+Charles McFadden,RB,Cool,0.0
+Ian Kipp,DUAL,Cool,0.0
+Zachary Robinson,PRO,Cool,0.0
+Jalen Smith,ATH,Cool,0.0
+Nic Jones,TE,Cool,0.0
+Andrew Threatt,OT,Cool,0.0
+Jaden Gaines,WDE,Cool,0.0
+Omarion Bodrick,WR,Cool,0.0
+Jalen Newman,CB,Cool,0.0
+Sullivan McDermott,PRO,Cool,0.0
+Jordan Bly,WR,Cool,0.0
+Kiylan Miller,ATH,Cool,0.0
+Kiylan Miller,ATH,Cool,0.0
+Avery Hewitt,OG,Cool,0.0
+Tyrell Davis,S,Cool,0.0
+Alan Wright,S,Cool,0.0
+Austin Dean,ILB,Cool,0.0
+Blake Martin,TE,Cool,0.0
+Todd Pledger,K,Cool,0.0
+Andre Wright,RB,Cool,0.0
+Kyle Pinnix,DUAL,Cool,0.0
+Deshawn Boone,CB,Cool,0.0
+Korion Sharpe,OG,Cool,0.0
+Trevor Timmons,OG,Cool,0.0
+Jevon McIver,CB,Cool,0.0
+Freddie Felton,WR,Cool,0.0
+Sully Hardin,K,Cool,0.0
+William Ford,TE,Cool,0.0
+Jake Marion,K,Cool,0.0
