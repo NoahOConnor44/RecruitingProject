@@ -1,4 +1,4 @@
-Clayton Smith,OLB,Cool,0.9548
+Clayton Smith,OLB,Cool,0.9537
 Bryson Green,WR,Warm,0.9082
 Blaine Green,WR,Warm,0.8895
 Tevin Williams,CB,Baylor,0.8742
@@ -7,24 +7,24 @@ Kyron Drones,DUAL,Baylor,0.8703
 Romario Noel,S,Baylor,0.8573
 Tate Williams,OG,Baylor,0.0
 Tony Grimes,CB,Cool,0.9956
-Savion Byrd,OT,Cool,0.9831
-Donovan Edwards,RB,Cool,0.9820
-LJ Johnson,RB,Cool,0.9779
+Savion Byrd,OT,Cool,0.9827
+Donovan Edwards,RB,Cool,0.9817
+LJ Johnson,RB,Cool,0.9777
 Bryce Foster,OG,Cool,0.9677
-Ishmael Ibraheem,CB,Cool,0.9466
-Junior Colson,OLB,Cool,0.9448
-Destyn Pazon,WR,Cool,0.9424
-Kendrick Blackshire,ILB,Warm,0.9353
-Ketron Jackson,WR,Warm,0.9280
-Kendal Daniels,S,Cool,0.9268
+Ishmael Ibraheem,CB,Cool,0.9455
+Junior Colson,OLB,Cool,0.9444
+Destyn Pazon,WR,Cool,0.9498
+Kendrick Blackshire,ILB,Warm,0.9339
+Ketron Jackson,WR,Warm,0.9352
+Kendal Daniels,S,Cool,0.9369
 JD Coffey,S,Cool,0.9264
-Theodore Knox,WR,Warm,0.9253
-Shemar Turner,SDE,Warm,0.9245
+Theodore Knox,WR,Warm,0.9243
+Shemar Turner,SDE,Warm,0.9237
 Dametrious Crownover,TE,Cool,0.9164
-Hudson Wolfe,TE,Cool,0.9142
+Hudson Wolfe,TE,Cool,0.9139
 Andrew Mukuba,S,Cool,0.9033
-Deuce Harmon,CB,Cool,0.8968
-Latrell Neville,WR,Virginia Tech,0.8953
+Deuce Harmon,CB,Cool,0.897
+Latrell Neville,WR,Virginia Tech,0.8891
 Caleb Johnson,OT,Cool,0.8920
 Jordan Jenkins,RB,Baylor,0.8863
 Matthew Wykoff,OT,Cool,0.8830

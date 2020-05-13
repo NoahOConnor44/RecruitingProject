@@ -2,7 +2,7 @@ import os
 import smtplib
 import time
 from pathlib import *
-from tkinter import *
+from tkinter import OptionMenu,StringVar,Label,Entry,Button,Tk
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup as soup
 
@@ -15,13 +15,14 @@ Things to add:
 - Multi-threading
     + 1) One thread for the GUI.
     + 2) One thread for the terminal that can run in the background.
-- Text Change
-    + Instead of saying x is now a ... they were a  ... before. just write x is now ... (+/- xyz)
-+ Send one big message
+- Send one big message
     + append each text message to a new line on a string. send it out as one message
-+ Recipients list
+- Recipients list
     + for each team have recipients.txt with a phone number and carrier for each person signed up. loop through and send the message.
-
+- Recieve ratings changes / interest changes notification buttons
+    +
+- Only send text notifications if interest is equal to warm, warmer, favorite.
+    +
 '''
 
 teams = []
@@ -113,9 +114,14 @@ def sendTextAlert(name, starRating, prevRating, phoneCarrier, phoneNumber, team,
     sendMSG.starttls()
     sendMSG.login("oconnornoah44@gmail.com","vvjidpgxiqxahjwf")
 
-    difference = (int(param.get("starRating")) - int(param.get("prevRating")))
+    difference = (float(param.get("starRating")) - float(param.get("prevRating")))
+    
+    strDifference = '{:.4f}'.format(difference)
 
-    message = param.get("name") + "'s rating has changed. They are now " + str(param.get("starRating")) + " (" + difference + ")"
+    if float(strDifference) > 0.0000:
+        message = param.get("name") + "'s rating has changed. They are now " + str(param.get("starRating")) + " (+" + strDifference + ")"
+    else:
+        message = param.get("name") + "'s rating has changed. They are now " + str(param.get("starRating")) + " (" + strDifference + ")"
 
     extension = ""
 
